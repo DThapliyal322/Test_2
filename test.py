@@ -8,3 +8,5 @@ var_4 = "Development"
 print(var_4)
 var_5 = "Construction"
 print(var_5)
+var_6 = "Progress"
+print(var_6)
