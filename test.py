@@ -1,3 +1,5 @@
+var_0 = "Divya"
+print(var_0)
 var = "Hello World"
 print(var)
 var_2 = "Deepak"
