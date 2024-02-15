@@ -10,3 +10,5 @@ var_5 = "Construction"
 print(var_5)
 var_6 = "Progress"
 print(var_6)
+var_7 = "Outgoing"
+print(var_7)
